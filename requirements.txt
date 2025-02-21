@@ -1,2 +1,5 @@
 streamlit
 pyodbc
+langchain_openai
+langchain.agents
+langchain.memory
